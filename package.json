@@ -1,0 +1,24 @@
+{
+  "name": "vue-template-compiler-fake",
+  "version": "1.0.0",
+  "description": "😭为啥没有行信息，给 vue-template-compiler 加上行信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruji/vue-template-compiler-fake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huruji/vue-template-compiler-fake/issues"
+  },
+  "homepage": "https://github.com/huruji/vue-template-compiler-fake#readme",
+  "dependencies": {
+    "de-indent": "^1.0.2",
+    "he": "^1.2.0"
+  }
+}
